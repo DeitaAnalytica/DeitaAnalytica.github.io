@@ -273,6 +273,53 @@ h6,
     transition: .5s;
 }
 
+
+
+
+.service-item .service-logo1 {
+    margin: 0 auto 20px auto;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/R-2.png) center center no-repeat;
+    transition: .5s;
+}
+
+
+.service-item .service-logo2 {
+    margin: 0 auto 20px auto;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/python-2.png) center center no-repeat;
+    transition: .5s;
+}
+
+
+.service-item .service-logo3 {
+    margin: 0 auto 20px auto;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/BI-4.png) center center no-repeat;
+    transition: .5s;
+}
+
+
+
+
+
+
+
 .service-item:hover .service-icon {
     color: var(--primary);
     background: url(../img/icon-shape-white.png);
